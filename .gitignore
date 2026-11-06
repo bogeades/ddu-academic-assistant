@@ -1,0 +1,22 @@
+# Dependencies
+**/node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Database backups
+backend/backups/
+
+# Uploaded files
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# ZIP archives
+backend.zip
+
+# Build files
+dist/
+build/
+.expo/

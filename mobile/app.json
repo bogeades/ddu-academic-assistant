@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "DDU Academic Assistant",
+    "slug": "ddu-academic-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "enabled": false
+    },
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0b3954"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b3954"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}

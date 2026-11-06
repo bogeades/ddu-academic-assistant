@@ -1,0 +1,13 @@
+{
+  "name": "ddu-academic-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dire Dawa University AI-Based Smart Academic Assistant workspace",
+  "scripts": {
+    "start": "node server.js",
+    "backend": "npm --prefix backend run dev",
+    "backend:start": "npm --prefix backend start",
+    "web": "npm --prefix web run dev",
+    "mobile": "npm --prefix mobile start"
+  }
+}
